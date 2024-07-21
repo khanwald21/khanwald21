@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oscar Mutamba Mwanga a mechatronic Engineering student
-- 👀 I’m interested in electronics, programming , baremetal firmware development, ARM Architecture ,ROS ,A uronomous navigation and robotics
+- 👀 I’m interested in electronics, programming , baremetal firmware development, ARM Architecture ,ROS ,Autonomous navigation and robotics
 - 🌱 I’m currently learning ROS packages for industrial robots application, Baremetal C programming , Python and electronics
 - 💞️ I’m looking to collaborate on developing smart autonomous Robots Using ROS packages and also work on mechanical design aspect Using SOLIDWORKS and other CAD tools
 - 📫 How to reach me  email me oscarmutamba77@gmail.com
